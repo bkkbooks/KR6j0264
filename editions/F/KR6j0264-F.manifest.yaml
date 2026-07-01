@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0264/F/v1
+canonical_location: https://kanripo.org/bkk/KR6j0264/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖千手千眼觀自在菩薩摩訶薩廣大圓滿無礙大悲心陀羅尼
+  identifiers:
+    krp: KR6j0264
+    cbeta: F27n1050
+    cbeta_old_id: F27n1050
+    authorityid: CA0008075
+    json_key: F1050
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1050.xml
+    old_id: F27n1050
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0264_000-F.yaml, hash: 'sha256:c4cfed780290f4d36e2e13040b7f58084a2d4538c631ce48eaf54e7c8dec7085'}
+  - {seq: 1, filename: KR6j0264_001-F.yaml, hash: 'sha256:4f7eb2d9d21f0fe061397af5e1db470091b0b6b04efe1db87213283fb0966629'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0264_000-F.markers.yaml, hash: 'sha256:99b3b4aa7b4e57a3b2962a9ff63b79455c4f274a7fc3f800b5ce4fd271680910'}
+  - {seq: 1, role: markers, filename: assets/KR6j0264_001-F.markers.yaml, hash: 'sha256:64b0984a043aeb68af2a98c8c99d5fcb850c79942fbaf9793e5cbdfb8b6a8ecd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0264_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 1005
+  label: '聖千手千眼觀自在菩󴅽摩訶󴅽廣大圓滿
+
+    無礙大悲心陁羅尼曰　　　　　感'
+  type: juan
+  level: 1
+hash: sha256:c9aec8ab15e886967358f377579556bcdaf4f7f855458bff39b841f1c977c49e
