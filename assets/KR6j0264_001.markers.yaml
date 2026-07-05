@@ -148,7 +148,6 @@ markers:
   - {type: xml-element, offset: 179, content: '', id: KR6j0264_F_001-bkkxmlele111, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 181, content: '', id: KR6j0264_F_001-bkkxmlele112, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 181, content: 　, id: KR6j0264_F_001-bkkind18}
-  - {type: substitution, offset: 182, original: 韈, replacement: 襪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1020}}
   - {type: xml-element, offset: 183, content: '', id: KR6j0264_F_001-bkkxmlele113, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 187, content: '', id: KR6j0264_F_001-bkkxmlele114, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 188, content: '', id: KR6j0264_F_001-bkkxmlele115, name: note, role: open, attrs: {place: inline}}
@@ -518,7 +517,6 @@ markers:
   - {type: indent, offset: 683, content: 　, id: KR6j0264_F_001-bkkind70}
   - {type: xml-element, offset: 685, content: '', id: KR6j0264_F_001-bkkxmlele395, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 686, content: '', id: KR6j0264_F_001-bkkxmlele396, name: note, role: close, attrs: {place: inline}}
-  - {type: substitution, offset: 687, original: 儗, replacement: 擬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0299}}
   - {type: xml-element, offset: 688, content: '', id: KR6j0264_F_001-bkkxmlele397, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 689, content: '', id: KR6j0264_F_001-bkkxmlele398, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 691, content: '', id: KR6j0264_F_001-bkkxmlele399, name: note, role: open, attrs: {place: inline}}
@@ -770,4 +768,4 @@ markers:
   - {type: xml-element, offset: 1005, content: '', id: KR6j0264_F_001-bkkxmlele596, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 1005, content: '', id: pF27p0400b2501_end, name: p, role: close, attrs: {'xml:id': pF27p0400b2501, style: 'margin-left:5em'}}
   back: []
-hash: sha256:f5c10bad3d70e3037e177d891bca6a8808326f6c1f639451c445951cd520c4e1
+hash: sha256:b27ca4679d771e08e99db83edea631be00ec66f6e5e9f59b2b43d39186cc5e03
