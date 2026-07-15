@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0264/v1
 canonical_location: https://kanripo.org/bkk/KR6j0264/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 聖千手千眼觀自在菩薩摩訶薩廣大圓滿無礙大悲心陀羅尼
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0264_000.yaml, hash: 'sha256:c4cfed780290f4d36e2e13040b7f58084a2d4538c631ce48eaf54e7c8dec7085'}
-  - {seq: 1, filename: KR6j0264_001.yaml, hash: 'sha256:4f7eb2d9d21f0fe061397af5e1db470091b0b6b04efe1db87213283fb0966629'}
+  - {seq: 1, filename: KR6j0264_001.yaml, hash: 'sha256:d32f8ab8d29884728415747f918999de6f67f9ee80af71b1b9b43b6a867a3794'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0264_000.markers.yaml, hash: 'sha256:0ac9f9ed7d33ee3d92084016fd7ae9461176b4e970de144c235548f78a812bdc'}
-  - {seq: 1, role: markers, filename: assets/KR6j0264_001.markers.yaml, hash: 'sha256:b27ca4679d771e08e99db83edea631be00ec66f6e5e9f59b2b43d39186cc5e03'}
+  - {seq: 1, role: markers, filename: assets/KR6j0264_001.markers.yaml, hash: 'sha256:4111ad4fe236057c83f922dd917157a1a7b2da15ec7b61c1a14ab835a42f3255'}
 table_of_contents:
 - ref:
     seq: 1
@@ -34,6 +34,9 @@ table_of_contents:
     無礙大悲心陁羅尼曰　　　　　感'
   type: juan
   level: 1
-hash: sha256:512d5099fc40746ab1fbb71cd113040872941b0407dc2eb408fcf0fca6505f19
+hash: sha256:7c1764ea7d04c9c6d3ac4b890aa117185a507dc263826b009499b5d2a0d8bd91
 editions:
 - short: F
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
